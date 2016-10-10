@@ -1,0 +1,177 @@
+/* aqua #58cac0
+====================================================================== */
+
+::selection
+{
+	color: white;
+	background-color: #58cac0;
+}
+::-moz-selection  
+{
+	color: white;
+	background-color: #58cac0;
+}
+#facebook-link:hover, #skype-link:hover, #twitter-link:hover, #flickr-link:hover, #vimeo-link:hover, #dribbble-link:hover, #linkedin-link:hover, #rss-link:hover, #googleplus-link:hover, #pintrest-link:hover {
+	background-color:#58cac0;
+}
+.search-submit:hover {
+	background-color: #58cac0;
+}
+#main-nav .current > a {
+	border-top: 3px solid #58cac0;
+}
+.box3-cont .box-number {
+	background-color:#58cac0;
+}
+a.r-m-plus-small:hover {
+	background-color: #58cac0;
+}
+.caption-text-container {
+	border-bottom:3px solid #58cac0;
+}
+.jcarousel-next:hover, .jcarousel-prev:hover {
+	background-color:#58cac0;
+}
+.lp-item-caption-container a:hover {
+    color: #58cac0;
+}
+.blog-item-date-cont  {
+	background-color:#58cac0;
+}
+.blog-categories li a:hover{
+	color:#58cac0;
+}
+.blog-categories li a:hover .blog-cat-icon{
+	background-color:#58cac0;
+}
+.blog-categories li.active .blog-cat-icon{
+	background-color:#58cac0;
+}
+.latest-post-sidebar img:hover {
+    border-color: #58cac0;
+	background: none repeat scroll 0 0 #58cac0;
+}
+.ui-accordion-header:hover a{
+	color:#58cac0;
+}
+.ui-accordion-header:hover span{
+	background-color: #58cac0;
+}
+.ui-accordion-header-active span {
+	background-color: #58cac0;
+}
+.tag-cloud a:hover {
+	background-color:#58cac0;
+}
+ul#flickrfeed li a:hover {
+	border-color: #58cac0;
+	background: none repeat scroll 0 0 #58cac0;
+}
+.comment-name a:hover{
+	color:#58cac0;
+}
+.comment-reply  a:hover{
+	color:#58cac0;
+}
+ul#filter li a:hover{
+	background-color: #58cac0;
+}
+ul#filter li.current a{
+	background-color: #58cac0;
+}
+.title-post-footer a {
+	color:#58cac0;
+}
+.icon_mail a:hover{
+    color:#58cac0;
+}
+#footer-nav li a:hover {
+	color:#58cac0;
+}
+a.author:hover {
+	color:#58cac0;
+}
+a.r-m-plus:hover {
+    color: #58cac0;
+}
+a.r-m-plus:hover:after{
+	background-color:#58cac0;
+}
+.button {
+	background-color:#58cac0;
+}
+.button.gray:hover {
+	background-color:#58cac0;
+}
+a {
+    color: #58cac0;
+}
+.a-invert:hover{
+	color: #58cac0;
+}
+.view a.zoom:hover, .view a.link:hover  {
+	background-color: #58cac0;
+}
+.at {
+	color:#58cac0;
+}
+blockquote {
+    border-left: 2px solid #58cac0;
+}
+.portfolio-pagination .pag-prev:hover,  .portfolio-pagination .pag-next:hover{
+	background-color:#58cac0;
+}
+.dropcap4 {
+	background: none repeat scroll 0 0 #58cac0;
+}
+#toggle-view .ui-accordion-header:hover {
+	color:#58cac0;
+}
+/*******************************************/
+.flexslider .flex-next:hover { background-color:#58cac0;}
+.flexslider .flex-prev:hover { background-color:#58cac0;}
+/*******************************************/
+.flex-caption h3 {
+	border-color:#58cac0;
+}
+.pt-col-main {
+    background-color: #58cac0;
+}
+.price-col-main .price-container {
+    background-color: #58cac0;
+}
+/*******************************************/
+#sequence-theme #sequence-preloader {
+  background: #58cac0;
+}
+#sequence-theme .nav li img.active {
+  background: none repeat scroll 0 0 #58cac0;
+  border: 1px solid #58cac0;
+}
+#sequence-theme .color {
+	color:#58cac0;
+}
+#sequence-theme .status {
+  background: url(../../images/status-bar-aqua.png) -940px 0 repeat-y;
+}
+#sequence-theme ul.nav li:hover img {
+	background: none repeat scroll 0 0 #58cac0;
+  	border: 1px solid #58cac0;
+}
+#sequence-theme .next,
+#sequence-theme .prev {
+  background-color:#58cac0;
+}
+#sequence-theme .theme-2 .next, #sequence-theme  .theme-2 .prev {
+  background-color:transparent !important;
+}
+/***************************************/
+.button.get-theme {
+	background-color:#58cac0;
+}
+#sequence-theme h3 {
+  	color: #58cac0;
+}
+#sequence .slide-2-yellow {
+	color:#58cac0;
+}
