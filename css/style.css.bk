@@ -59,10 +59,11 @@ header{
 	display: flex;
 	flex-wrap: wrap;
 	}
-
+}
 header ul{
   margin: 0;
   padding: 0;
+
 }
 .div_logo{
   position: relative;
@@ -145,6 +146,7 @@ nav.navbar{
 .div_menu ul li{
   padding-top: 0 !important;
   padding-bottom: 0 !important;
+
 }
 
 .navbar ul a:hover{
@@ -234,6 +236,7 @@ width: 280px !important;
 }
 @media (max-width: 1024px) and (min-width: 768px){
   .navbar-nav {
+
       width: 100%;
   }
   .navbar-collapse.in {
@@ -244,11 +247,10 @@ width: 280px !important;
   .navbar-collapse.collapse.in {
       display: block !important;
   }
-
-	.col_flex{
-		flex-direction: column;
-	}
 }
+
+
+
 @media screen and (max-width: 1199px) and (min-width: 320px){
   nav.navbar  {
     width: 100% !important;
@@ -263,6 +265,7 @@ width: 280px !important;
  .navbar-collapse.collapse {
    display: none !important;
  }
+
 }
 @media screen and (max-width:1200px){
 
@@ -278,6 +281,11 @@ width: 280px !important;
 	    position: relative;
 	    right: 45px;
 	}
+  /*nav.navbar {
+    margin-bottom: 30px;
+    width: 970px;
+    flex-wrap: nowrap;
+  }*/
   .navbar li {
     float: left;
     padding: 0 10px 0 0;
@@ -410,13 +418,19 @@ width: 280px !important;
 }
 
 @media screen and (max-width:768px){
+  .style_tab{
 
+    display:flex;
+    flex-direction:column;
+  }
 }
 /* footer */
 footer{
-
+    justify-content: center;
+    align-items: flex-start !important;
   }
 .container_tab{
+
   margin-right: auto;
   margin-left: auto;
 }
@@ -590,7 +604,7 @@ footer{
     content: url(../images/icon-infomex.png);
 }
 #footer-columns ul.menu li a.privacidad:after {
-    content: url(../images/icon-privacidad.png);
+    content: url(/img/icon-privacidad.png);
 }
 .tweets {
     margin: 0;
@@ -640,10 +654,6 @@ footer{
     margin: 0 20px 0 0;
     vertical-align: middle;
 }
-.col_flex{
-	display: flex;
-
-}
 
 @media (max-width: 767px) {
 	#footer-columns .row .col.lg-3:first-child, #footer-columns .row .col.md-12:first-child,
@@ -670,7 +680,6 @@ footer{
 }
 
 @media (min-width: 992px){
-
 	.container { width: 970px; }
 	#footer-columns .block, #footer-columns nav { margin-bottom: 30px; }
 }
@@ -691,7 +700,6 @@ footer{
   }
   .navbar h2 {
     font-size: 17px;
-}
 }
 /*-----------------------End Header and Footer Tabasco-----------------------*/
 .bold {
